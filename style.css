@@ -1,3 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-
-h3 {font-family: "Comic Neue", san-serif;}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page with Comic Sans</title>
+<style>
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+</style>
+</head>
+<body>
+<p>This text uses Comic Sans.</p>
+</body>
+</html>
